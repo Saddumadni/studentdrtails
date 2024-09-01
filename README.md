@@ -1,1 +1,2 @@
-# studentdrtails
+# studentdetails
+npm install 
